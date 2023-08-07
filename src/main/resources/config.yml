@@ -29,7 +29,6 @@ TRANSPARENT_BLOCKS: # Блоки, через которые может прох�
 BLOCKS_ENERGY_LOSSES: # Индивидуальные потери энергии для блоков
   WATER: 5
   SLIME_BLOCK: 1
-  MOSS_BLOCK: 3
   HAY_BLOCK: 5
   HONEY_BLOCK: 100
   ICE: 1.2
