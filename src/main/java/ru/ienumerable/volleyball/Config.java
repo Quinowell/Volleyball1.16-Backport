@@ -85,7 +85,6 @@ public class Config {
 
         BOUNCE_ENERGY_LOSSES.put(Material.WATER, 5D);
         BOUNCE_ENERGY_LOSSES.put(Material.SLIME_BLOCK, 1D);
-        BOUNCE_ENERGY_LOSSES.put(Material.MOSS_BLOCK, 3D);
         BOUNCE_ENERGY_LOSSES.put(Material.HAY_BLOCK, 5D);
         BOUNCE_ENERGY_LOSSES.put(Material.HONEY_BLOCK, 100D);
         BOUNCE_ENERGY_LOSSES.put(Material.ICE, 0.8D);
