@@ -1,7 +1,7 @@
 name: Volleyball
 version: '${project.version}'
 main: ru.ienumerable.volleyball.Volleyball
-api-version: '1.19'
+api-version: '1.16'
 authors: [ IEnumerable ]
 commands:
   ballskin:
